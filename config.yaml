@@ -2,7 +2,7 @@ baseURL: "/"
 languageCode: en-us
 defaultContentLanguage: en
 theme: almeida-cv
-title: Example - CV
+title: CV Guillaume Biessy
 params:
   colorDark: '#666'
   colorLight: '#fff'
