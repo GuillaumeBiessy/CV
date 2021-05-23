@@ -1,0 +1,29 @@
+{{ if .Site.Data.content.Teaching }}
+<div id="teaching" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">{{ i18n "teaching" }}</h2>
+    </div>
+    <div class="section__content">
+        <div class="teaching">
+            {{ range .Site.Data.content.Teaching }}
+            <div class="teaching__item">
+                <div class="teaching__header">
+                    <h3 class="teaching__company">
+                        {{ .Employer | safeHTML }}
+                    </h3>
+                    <h3 class="teaching__place">{{ .Place | safeHTML }}</h3>
+                </div>
+                {{ range .Positions }}
+                <div class="teaching__job">
+                    <div class="teaching__subheader">
+                        <div class="teaching__description">{{ .Details | safeHTML }}</div>
+                        <h3 class="teaching__date">{{ .Date | safeHTML }}</h3>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

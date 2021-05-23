@@ -1,0 +1,5 @@
+.publications {
+    &__item {
+        @include avoid-break;
+    }
+}

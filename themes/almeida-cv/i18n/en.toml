@@ -7,6 +7,12 @@ other = "Experience"
 [education]
 other = "Education"
 
+[teaching]
+other = "Teaching"
+
+[publications]
+other = "Publications"
+
 [skills]
 other = "Skills"
 

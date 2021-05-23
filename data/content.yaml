@@ -15,35 +15,51 @@ BasicInfo:
 Profile: |
   A fully qualified actuary and part-time associate professor, 
   I have a 8-year experience in the field of Insurance, focusing on data processing 
-  and data analytics as well as modelling of biometric risks (longevity, long-term care).
+  and data analytics, especially on the modelling of biometric risks (longevity, long-term care).
   
 
 Experience:
-  - Employer: LinkPact
+  - Employer: LinkPact (french consulting firm, 20 employees)
     Place: Paris, France
     Positions:
       - Title: Manager, Head of R&D
         Date: Sep 2020 - Present
         Details:
-          - Responsible for the launch of an R&D division in the company
-          - Publications on topics such as mortality risk and covid19 visualisation
-          - Missions on Solvency II Internal Model overhaul
+          - In charge of the launch of an R&D division in the firm
+          - Creation of an applied research and communication strategy
+          - Publishing research paper on biometric risks or topics related to the regulatory changes
+          - Development of services, training or software offers with high level of technicity
+          - Modelling-oriented missions such as Internal Modelling overhaul
         Badges: ['R&D', 'Consulting', 'Management', 'Communication', 'Longevity Risk', 'Solvency II Internal Model']
-  - Employer: SCOR
+  - Employer: Sorbonne Université
+    Place: Paris, France
+    Positions:
+      - Title: Part-time Associate Professor
+        Date: Dec 2019 - Present
+        Details:
+          - PAST special status compatible with a full-time job in the industry
+          - Research work at the LPSM (Probabilities, Statistic and Modelling Lab)
+          - Teaching in Actuarial Training at ISUP
+          - Academic tutoring of Actuarial Master Thesis (8 students a year)
+        Badges: ['Research', 'Teaching', 'Tutoring']
+  - Employer: SCOR (world 4th largest reinsurance company)
     Place: Paris, France
     Positions:
       - Title: R&D Actuary
         Date: Nov 2016 - Sep 2020
         Details:
-          - Presentations of Research work in International Conferences
-          - Developpement of main long-term care pricing assumptions for the French and Israeli markets
+          - Long-term care expert in SCOR R&D centers on biometric risks
+          - Long-term care portfolios experience studies and presentation of the results to the company clients
+          - Derivation of reference long-term care technical and pricing assumptions
+          - Support to local teams across the globe for product development and pricing
+          - Development of R packages for the automation of data processing and analytics
+          - Presentations of research work in international conferences
+          - Academic partnership management
           - Management of master thesis and PhD interns.
-        Badges: ['R&D', 'Data processing', 'Data analytics', 'Long-Term Care Risk', 'Longevity Risk', 'Training', 'Pricing Review']
+        Badges: ['R&D', 'Experience Analysis', 'Long-Term Care Risk', 'Longevity Risk', 'Training', 'Pricing Review']
       - Title: Junior R&D Actuary
         Date: Sep 2013 - Nov 2016
-        Details:
-          - Developpement of new modelling methodologies for the long-term care risk
-        Badges: ['R&D', 'Multi-state models', 'Data processing', 'Data analytics', 'Long-Term Care Risk'] 
+        Badges: ['R&D', 'Multi-state models', 'Experience Analysis', 'Long-Term Care Risk'] 
           
 Education:
   - Course: PhD in Applied Statistics
@@ -57,26 +73,62 @@ Education:
   - Course: Generalist Engineering Degree
     Place: Telecom Bretagne (now IMT Atlantique), Brest, France
     Date: Sep 2009 - Nov 2013
-    
+  
+Teaching:
+  - Employer: Université Paris-Dauphine
+    Place: Paris, France
+    Positions:
+      - Details: Demography and Mortality table
+        Date: 2021 - Present
+  - Employer: ISUP (Paris Universitary Institute of Statistics)
+    Place: Paris, France
+    Positions:
+      - Details: Long-term Care Insurance
+        Date: 2014, 2020 - Present
+  - Employer: EURIA
+    Place: Brest, France
+    Positions:
+      - Details: Long-term Care Insurance / Reinsurance (2 years)
+        Date: 2014 - Present
+  - Employer: Université d'Aix-Marseille
+    Place: Marseille, France
+    Positions:
+      - Details: Long-term Care Insurance / Reinsurance (2 years)
+        Date: 2014 - 2020
+        
+Publications:
+  - Paper: Prospective modelling of Long-Term Care biometric assumptions with multiple portfolios
+    Details: Working Paper, 2020
+  - Paper: Continuous time semi-Markov inference of biometric laws associated with a Long-Term Care Insurance portfolio
+    Details: Astin Bulletin, 47(2), 2017
+  - Paper: "Long-Term Care Insurance: a multi-state semi-Markov model to describe the dependency process in elderly people"
+    Details: Bulletin Français d’Actuariat, 15(29), 2015
+        
 Skills:
-  - Family: Actuarial
+  - Family: Statistics / Actuarial
     Items:
+      - Data Processing
       - Multi-state models
-      - Mortality/longevity Risk
-      - Long-Term Care Risk
+      - Smoothing methods
+      - Forecasting
+      - Mortality/longevity risk
+      - Long-Term Care risk
       - Solvency II Internal Models
+      - Simulations
+      - Optimisation
   - Family: Programming
     Items:
       - R
       - SAS
-      - Excel / VBA
-      - RMarkdown
-      - LaTeX
+      - VBA
       - HTML
       - CSS
+      - C++
+      - C#
+      - Java
   - Family: Reporting
     Items:
-      - Microsoft Office
+      - Microsoft Office Suite
       - RMarkdown
       - LaTeX
 
@@ -86,11 +138,12 @@ Languages:
   - Name: English
     Level: Fluent
   - Name: German
-    Level: B2
+    Level: Good Notions
 
 Interests:
   - Literature
   - Painting
+  - Theater
   - History
   - Cooking
   - Board Games

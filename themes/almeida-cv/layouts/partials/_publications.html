@@ -1,0 +1,17 @@
+{{ if .Site.Data.content.Publications }}
+<div id="publications" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">
+            {{ i18n "publications" }}
+        </h2>
+    </div>
+    <div class="section__content">
+        {{ range .Site.Data.content.Publications }}
+            <div class="publications__item">
+                <h4 class="publications__title">{{ .Paper | safeHTML }}</h4>
+                <div class="publications__description">{{ .Details | safeHTML }}</div>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

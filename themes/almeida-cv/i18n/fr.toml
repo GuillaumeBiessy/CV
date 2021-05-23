@@ -7,6 +7,12 @@ other = "Expériences professionnelles"
 [education]
 other = "Formation"
 
+[teaching]
+other = "Enseignement"
+
+[publications]
+other = "Publications"
+
 [skills]
 other = "Compétences"
 

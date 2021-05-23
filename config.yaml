@@ -11,7 +11,7 @@ params:
   colorPrimaryText: '#fff'
   colorRightColumnBackground: '#f5f5f5'
   colorSecondary: '#aaa'
-  pages: 1
+  pages: 2
 markup:
   goldmark:
     renderer:
