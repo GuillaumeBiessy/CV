@@ -59,52 +59,38 @@ Education:
     Date: Sep 2009 - Nov 2013
     
 Skills:
+  - Family: Actuarial
+    Items:
+      - Multi-state models
+      - Mortality/longevity Risk
+      - Long-Term Care Risk
+      - Solvency II Internal Models
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
+      - R
+      - SAS
+      - Excel / VBA
+      - RMarkdown
+      - LaTeX
+      - HTML
       - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+  - Family: Reporting
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
+      - Microsoft Office
+      - RMarkdown
       - LaTeX
 
 Languages:
-  - Name: Portuguese
+  - Name: French
     Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
+    Level: Fluent
   - Name: German
-    Level: B1
-
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+    Level: B2
 
 Interests:
-  - Littérature
+  - Literature
+  - Painting exhibitions
+  - History / Geopolitics
   - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Board Games
